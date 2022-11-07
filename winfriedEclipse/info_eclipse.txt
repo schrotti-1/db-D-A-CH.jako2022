@@ -1,1 +1,2 @@
 eclipse info
+Erweiterung des Textes aus Eclipse
