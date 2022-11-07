@@ -1,2 +1,6 @@
 eclipse info
 Clone erstellt
+
+Erweiterung des Textes aus Eclipse
+
+Änderungen aus Branch Winfried01
