@@ -1,2 +1,4 @@
 eclipse info
 Erweiterung des Textes aus Eclipse
+
+Änderungen aus Branch Winfried01
