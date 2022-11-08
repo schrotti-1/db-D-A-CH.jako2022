@@ -1,4 +1,8 @@
 eclipse info
+<<<<<<< HEAD
 Erweiterung des Textes aus Eclipse
 
 Änderungen aus Branch Winfried01
+=======
+Erweiterung des Textes aus Eclipse
+>>>>>>> refs/heads/jako2022Winfried01
